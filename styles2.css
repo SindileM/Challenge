@@ -35,7 +35,7 @@ body {
   padding: 10px;
 }
 
-h1:hover {
+h2:hover {
   font-size: 20px;
   color: #000;
 }
@@ -70,9 +70,8 @@ button{
 *{
   color: aliceblue;
 }
-p{
+h1{
   text-align: center;
-  text-decoration-style: double;
-  text-shadow: black;
-  text
+  font-family: cursive;
+  font-size: xx-large;
 }
