@@ -1,10 +1,15 @@
-<style type="text/css">
+
 * {
   margin: 0px;
   padding: 0px;
 }
+
 body {
   font-family: arial;
+  background-image: url('back.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
 }
 .main {
   margin: 2%;
@@ -62,4 +67,12 @@ button{
   border-color: royalblue;
   border-radius: 25%;
 }
-</style>
+*{
+  color: aliceblue;
+}
+p{
+  text-align: center;
+  text-decoration-style: double;
+  text-shadow: black;
+  text
+}
